@@ -1,0 +1,20 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/CorpForm/page": "app/CorpForm/page.js",
+  "/about/page": "app/about/page.js",
+  "/courses/ecourses/page": "app/courses/ecourses/page.js",
+  "/courses/page": "app/courses/page.js",
+  "/courses/uploadCourse/page": "app/courses/uploadCourse/page.js",
+  "/emailVerification/page": "app/emailVerification/page.js",
+  "/employeeForm/page": "app/employeeForm/page.js",
+  "/employeeForm/report/page": "app/employeeForm/report/page.js",
+  "/error/page": "app/error/page.js",
+  "/findJob/page": "app/findJob/page.js",
+  "/how/page": "app/how/page.js",
+  "/jobs/page": "app/jobs/page.js",
+  "/login/page": "app/login/page.js",
+  "/page": "app/page.js",
+  "/signup/page": "app/signup/page.js",
+  "/upload/page": "app/upload/page.js"
+}
